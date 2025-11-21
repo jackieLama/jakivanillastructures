@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:mushroom_spot",
+      "weight": 1
+    },
+    {
+      "structure": "jvs:mushroom_spot_witch",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 8,
+    "spread_type": "triangular",
+    "salt": 8899220
+  }
+}

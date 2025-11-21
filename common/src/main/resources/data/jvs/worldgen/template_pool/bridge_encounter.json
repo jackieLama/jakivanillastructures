@@ -1,0 +1,15 @@
+{
+  "name": "jvs:bridge_encounter",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "location": "jvs:bridge_encounter"
+      },
+      "weight": 1
+    }
+  ]
+}
