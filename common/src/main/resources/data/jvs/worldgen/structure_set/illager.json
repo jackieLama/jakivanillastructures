@@ -1,19 +1,19 @@
 {
   "structures": [
     {
-      "structure": "jvs:stonehenge",
+      "structure": "jvs:illager_tower_outpost",
       "weight": 1
     },
-    {
-      "structure": "jvs:knight_encounter",
-      "weight": 1
-    }
+      {
+          "structure": "jvs:illager_raid_camp",
+          "weight": 1
+      }
   ],
   "placement": {
     "type": "minecraft:random_spread",
     "spacing": 34,
     "separation": 8,
     "spread_type": "triangular",
-    "salt": 4899220
+    "salt": 839220
   }
 }

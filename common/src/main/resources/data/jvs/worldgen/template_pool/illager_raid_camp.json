@@ -1,5 +1,5 @@
 {
-  "name": "jvs:killer_rabbit_lair",
+  "name": "jvs:illager_raid_camp",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +7,7 @@
         "element_type": "minecraft:single_pool_element",
         "processors": "minecraft:empty",
         "projection": "rigid",
-        "location": "jvs:killer_rabbit_lair"
+        "location": "jvs:illager_raid_camp"
       },
       "weight": 1
     }
