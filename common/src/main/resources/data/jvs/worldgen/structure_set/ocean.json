@@ -1,0 +1,31 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:ships_collision",
+      "weight": 1
+    },
+      {
+          "structure": "jvs:fisherman_raft",
+          "weight": 1
+      },
+      {
+          "structure": "jvs:drakkar_skeleton",
+          "weight": 1
+      },
+      {
+          "structure": "jvs:illager_platform_outpost",
+          "weight": 1
+      },
+      {
+          "structure": "jvs:illager_ocean_base",
+          "weight": 1
+      }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 34,
+    "separation": 8,
+    "spread_type": "triangular",
+    "salt": 11899220
+  }
+}
