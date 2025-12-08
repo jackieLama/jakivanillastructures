@@ -19,6 +19,10 @@
       {
           "structure": "jvs:illager_ocean_base",
           "weight": 1
+      },
+      {
+          "structure": "jvs:aquatic_ancient_artefact",
+          "weight": 1
       }
   ],
   "placement": {
