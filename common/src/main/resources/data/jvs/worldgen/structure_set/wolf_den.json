@@ -2,13 +2,13 @@
   "structures": [
     {
       "structure": "jvs:wolf_den",
-      "weight": 1
+      "weight": 3
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 34,
-    "separation": 8,
+    "spacing": 70,
+    "separation": 10,
     "spread_type": "triangular",
     "salt": 19856220
   }

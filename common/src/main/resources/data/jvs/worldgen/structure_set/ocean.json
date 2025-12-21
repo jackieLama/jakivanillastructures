@@ -2,19 +2,19 @@
   "structures": [
     {
       "structure": "jvs:ships_collision",
-      "weight": 1
+      "weight": 3
     },
       {
           "structure": "jvs:fisherman_raft",
-          "weight": 1
+          "weight": 5
       },
       {
           "structure": "jvs:drakkar_skeleton",
-          "weight": 1
+          "weight": 5
       },
       {
           "structure": "jvs:illager_platform_outpost",
-          "weight": 1
+          "weight": 3
       },
       {
           "structure": "jvs:illager_ocean_base",
@@ -22,13 +22,17 @@
       },
       {
           "structure": "jvs:aquatic_ancient_artefact",
-          "weight": 1
+          "weight": 5
+      },
+      {
+          "structure": "jvs:trader_ship",
+          "weight": 3
       }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 34,
-    "separation": 8,
+    "spacing": 120,
+    "separation": 11,
     "spread_type": "triangular",
     "salt": 11899220
   }

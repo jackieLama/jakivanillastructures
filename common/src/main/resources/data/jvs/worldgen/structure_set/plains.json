@@ -2,7 +2,7 @@
   "structures": [
     {
       "structure": "jvs:stonehenge",
-      "weight": 1
+      "weight": 3
     },
     {
       "structure": "jvs:knight_encounter",
@@ -11,8 +11,8 @@
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 34,
-    "separation": 8,
+    "spacing": 100,
+    "separation": 10,
     "spread_type": "triangular",
     "salt": 864899220
   }
