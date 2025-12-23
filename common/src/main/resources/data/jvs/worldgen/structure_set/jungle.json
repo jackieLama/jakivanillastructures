@@ -3,11 +3,15 @@
     {
       "structure": "jvs:jungle_totem",
       "weight": 5
-    }
+    },
+      {
+          "structure": "jvs:mohai_jungle",
+          "weight": 5
+      }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 70,
+    "spacing": 100,
     "separation": 10,
     "spread_type": "triangular",
     "salt": 651839220
