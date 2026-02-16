@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:desert_ruins",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 10,
+    "spread_type": "triangular",
+    "salt": 3249220
+  }
+}

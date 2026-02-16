@@ -1,0 +1,23 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:polarbear_iceberg",
+      "weight": 5
+    },
+      {
+          "structure": "jvs:big_iceberg",
+          "weight": 1
+      },
+      {
+          "structure": "jvs:iceberg_illager",
+          "weight": 1
+      }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 120,
+    "separation": 11,
+    "spread_type": "triangular",
+    "salt": 8911899220
+  }
+}

@@ -7,6 +7,10 @@
       {
           "structure": "jvs:mohai_jungle",
           "weight": 5
+      },
+      {
+          "structure": "jvs:samourai_dojo",
+          "weight": 1
       }
   ],
   "placement": {
