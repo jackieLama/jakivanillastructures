@@ -4,7 +4,22 @@
     "minecraft:forest",
     "minecraft:meadow",
     "minecraft:birch_forest",
-      "minecraft:sunflower_plains"
-
+    "minecraft:sunflower_plains",
+      {
+          "id": "biomesoplenty:mediterranean_forest",
+          "required": false
+      },
+      {
+          "id": "biomesoplenty:pasture",
+          "required": false
+      },
+      {
+          "id": "biomesoplenty:pumpkin_patch",
+          "required": false
+      },
+      {
+          "id": "biomesoplenty:lavender_field",
+          "required": false
+      }
   ]
 }

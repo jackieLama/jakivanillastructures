@@ -1,0 +1,26 @@
+{
+    "values": [
+        "minecraft:taiga",
+        "minecraft:old_growth_spruce_taiga",
+        "minecraft:plains",
+        "minecraft:birch_forest",
+        "minecraft:dark_forest",
+        "minecraft:forest",
+        {
+            "id": "biomesoplenty:redwood_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:seasonal_forest",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:aspen_glade",
+            "required": false
+        },
+        {
+            "id": "biomesoplenty:pumpkin_patch",
+            "required": false
+        }
+    ]
+}

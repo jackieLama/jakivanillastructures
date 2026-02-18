@@ -2,6 +2,10 @@
   "values": [
     "minecraft:forest",
     "minecraft:taiga",
-    "minecraft:birch_forest"
+    "minecraft:birch_forest",
+      {
+          "id": "biomesoplenty:mystic_grove",
+          "required": false
+      }
   ]
 }
