@@ -1,9 +1,5 @@
 {
   "structures": [
-    {
-      "structure": "jvs:polarbear_iceberg",
-      "weight": 5
-    },
       {
           "structure": "jvs:big_iceberg",
           "weight": 1

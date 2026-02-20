@@ -1,13 +1,13 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#jvs:polarbear_iceberg",
+  "biomes": "#jvs:snow",
   "step": "surface_structures",
-  "terrain_adaptation": "none",
+  "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
-  "start_pool": "jvs:polarbear_iceberg",
+  "start_pool": "jvs:viking_house",
   "size": 7,
   "start_height": {
-    "absolute": -6
+    "absolute": 0
   },
   "project_start_to_heightmap": "WORLD_SURFACE_WG",
   "max_distance_from_center": 116,
