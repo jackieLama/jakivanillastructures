@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:stray_tombeau",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 70,
+    "separation": 10,
+    "spread_type": "triangular",
+    "salt": 459465120
+  }
+}

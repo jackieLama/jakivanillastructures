@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:viking_house_grass",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 70,
+    "separation": 10,
+    "spread_type": "triangular",
+    "salt": 9465120
+  }
+}

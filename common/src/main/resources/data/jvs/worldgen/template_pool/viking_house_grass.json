@@ -1,0 +1,15 @@
+{
+  "name": "jvs:viking_house_grass",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "location": "jvs:viking_house_grass"
+      },
+      "weight": 1
+    }
+  ]
+}

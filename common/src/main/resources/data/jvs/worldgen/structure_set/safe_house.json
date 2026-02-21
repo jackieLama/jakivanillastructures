@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:safe_house",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 70,
+    "separation": 10,
+    "spread_type": "triangular",
+    "salt": 65120
+  }
+}
