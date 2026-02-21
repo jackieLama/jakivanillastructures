@@ -7,7 +7,19 @@
     {
       "structure": "jvs:knight_encounter",
       "weight": 1
-    }
+    },
+      {
+          "structure": "jvs:wolf_den",
+          "weight": 3
+      },
+      {
+          "structure": "jvs:safe_house",
+          "weight": 5
+      },
+      {
+          "structure": "jvs:illager_raid_camp",
+          "weight": 3
+      }
   ],
   "placement": {
     "type": "minecraft:random_spread",
