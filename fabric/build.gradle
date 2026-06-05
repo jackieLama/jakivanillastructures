@@ -1,14 +1,9 @@
 plugins {
     id 'multiloader-loader'
     id 'fabric-loom'
-    id 'me.modmuss50.mod-publish-plugin'
 }
 
 repositories {
-    maven {
-        name = "Terraformers"
-        url = "https://maven.terraformersmc.com/"
-    }
     exclusiveContent {
         forRepository {
             maven {
@@ -30,8 +25,6 @@ dependencies {
     }
     modImplementation "net.fabricmc:fabric-loader:${fabric_loader_version}"
     modImplementation "net.fabricmc.fabric-api:fabric-api:${fabric_version}"
-    implementation group: 'com.google.code.findbugs', name: 'jsr305', version: '3.0.1'
-    implementation project(":common")
 }
 
 loom {
@@ -46,26 +39,14 @@ loom {
             client()
             setConfigName("Fabric Client")
             ideConfigGenerated(true)
-            runDir("run")
+            runDir('runs/client')
         }
         server {
             server()
             setConfigName("Fabric Server")
             ideConfigGenerated(true)
-            runDir("run")
+            runDir('runs/server')
         }
     }
 }
 
-publishMods {
-    file = remapJar.archiveFile
-    modLoaders.addAll("fabric", "quilt")
-
-    curseforge {
-        //fabric only dependencies found on curseforge go here. same format as in the root build.gradle
-    }
-
-    modrinth {
-        //fabric only dependencies found on modrinth go here. same format as in the root build.gradle
-    }
-}

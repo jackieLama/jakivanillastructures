@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "id": "mod_id",
+    "id": "jvs",
     "version": "${version}",
     "name": "${mod_name}",
     "description": "${description}",
@@ -27,10 +27,7 @@
         "fabricloader": ">=0.14",
         "fabric": "*",
         "minecraft": "${minecraft_version}",
-        "java": ">=17"
-    },
-    "suggests": {
-        "another-mod": "*"
+        "java": ">=21"
     }
 }
   
