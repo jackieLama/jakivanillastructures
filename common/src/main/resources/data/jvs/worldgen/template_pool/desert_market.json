@@ -1,0 +1,15 @@
+{
+  "name": "jvs:desert_market",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "location": "jvs:desert_market"
+      },
+      "weight": 1
+    }
+  ]
+}

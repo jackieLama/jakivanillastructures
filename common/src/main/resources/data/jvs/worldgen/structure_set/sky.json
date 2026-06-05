@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:sky_tower_island",
+      "weight": 1
+    },
+    {
+      "structure": "jvs:villager_balloon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 10,
+    "spread_type": "triangular",
+    "salt": 439220
+  }
+}

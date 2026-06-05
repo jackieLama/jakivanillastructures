@@ -27,6 +27,14 @@
       {
           "structure": "jvs:trader_ship",
           "weight": 3
+      },
+      {
+          "structure": "jvs:sunken_boat",
+          "weight": 5
+      },
+      {
+          "structure": "jvs:deep_sea_tower",
+          "weight": 1
       }
   ],
   "placement": {

@@ -1,5 +1,5 @@
 {
-  "name": "jvs:knight_encounter",
+  "name": "jvs:villager_balloon",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +7,7 @@
         "element_type": "minecraft:single_pool_element",
         "processors": "minecraft:empty",
         "projection": "rigid",
-        "location": "jvs:knight_encounter"
+        "location": "jvs:villager_balloon"
       },
       "weight": 1
     }

@@ -2,6 +2,14 @@
   "values": [
     "minecraft:forest",
     "minecraft:plains",
-    "minecraft:meadow"
+    "minecraft:meadow",
+    {
+      "id": "biomesoplenty:prairie",
+      "required": false
+    },
+    {
+      "id": "biomesoplenty:mystic_grove",
+      "required": false
+    }
   ]
 }

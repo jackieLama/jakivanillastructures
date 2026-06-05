@@ -1,11 +1,11 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#jvs:samourai_dojo",
+  "biomes": "#jvs:jungle",
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
   "start_pool": "jvs:samourai_dojo",
-  "size": 7,
+  "size": 1,
   "start_height": {
     "absolute": 0
   },

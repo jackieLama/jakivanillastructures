@@ -1,11 +1,11 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#jvs:safe_house",
+  "biomes": "#jvs:mixed_plains",
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
   "start_pool": "jvs:safe_house",
-  "size": 7,
+  "size": 1,
   "start_height": {
     "absolute": 0
   },

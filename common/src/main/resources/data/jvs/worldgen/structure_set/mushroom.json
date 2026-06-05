@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "jvs:mushroom_house",
+      "weight": 5
+    },
+    {
+      "structure": "jvs:illager_mushroom",
+      "weight": 5
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 100,
+    "separation": 10,
+    "spread_type": "triangular",
+    "salt": 653249220
+  }
+}

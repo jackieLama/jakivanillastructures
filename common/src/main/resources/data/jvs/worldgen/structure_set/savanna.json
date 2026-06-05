@@ -1,15 +1,15 @@
 {
   "structures": [
     {
-      "structure": "jvs:bridge_encounter",
-      "weight": 1
+      "structure": "jvs:savanna_tribe",
+      "weight": 5
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 70,
+    "spacing": 100,
     "separation": 10,
     "spread_type": "triangular",
-    "salt": 59465120
+    "salt": 1839220
   }
 }

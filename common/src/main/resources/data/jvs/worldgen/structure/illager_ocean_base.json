@@ -5,7 +5,7 @@
   "terrain_adaptation": "none",
   "spawn_overrides": {},
   "start_pool": "jvs:illager_ocean_base",
-  "size": 7,
+  "size": 1,
   "start_height": {
     "absolute": -1
   },

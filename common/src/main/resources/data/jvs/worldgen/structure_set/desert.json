@@ -3,6 +3,10 @@
     {
       "structure": "jvs:desert_ruins",
       "weight": 5
+    },
+    {
+      "structure": "jvs:desert_market",
+      "weight": 1
     }
   ],
   "placement": {

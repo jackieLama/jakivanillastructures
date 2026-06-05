@@ -1,0 +1,15 @@
+{
+  "name": "jvs:blue_house",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "location": "jvs:blue_house"
+      },
+      "weight": 1
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "name": "jvs:bridge_encounter",
+  "name": "jvs:sky_tower_island",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +7,7 @@
         "element_type": "minecraft:single_pool_element",
         "processors": "minecraft:empty",
         "projection": "rigid",
-        "location": "jvs:bridge_encounter"
+        "location": "jvs:sky_tower_island"
       },
       "weight": 1
     }

@@ -5,7 +5,7 @@
   "terrain_adaptation": "none",
   "spawn_overrides": {},
   "start_pool": "jvs:polarbear_iceberg",
-  "size": 7,
+  "size": 1,
   "start_height": {
     "absolute": -6
   },
