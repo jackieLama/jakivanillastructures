@@ -11,6 +11,10 @@
       {
           "structure": "jvs:samourai_dojo",
           "weight": 1
+      },
+      {
+          "structure": "jvs:jungle_temple",
+          "weight": 1
       }
   ],
   "placement": {

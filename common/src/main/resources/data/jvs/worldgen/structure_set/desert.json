@@ -7,6 +7,10 @@
     {
       "structure": "jvs:desert_market",
       "weight": 1
+    },
+    {
+      "structure": "jvs:copper_trader",
+      "weight": 5
     }
   ],
   "placement": {
