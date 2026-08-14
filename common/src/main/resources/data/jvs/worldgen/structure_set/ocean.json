@@ -1,9 +1,9 @@
 {
   "structures": [
-    {
-      "structure": "jvs:ships_collision",
-      "weight": 3
-    },
+      {
+          "structure": "jvs:ships_collision",
+          "weight": 3
+      },
       {
           "structure": "jvs:fisherman_raft",
           "weight": 5
@@ -34,6 +34,10 @@
       },
       {
           "structure": "jvs:deep_sea_tower",
+          "weight": 1
+      },
+      {
+          "structure": "jvs:lizardmen_platform",
           "weight": 1
       }
   ],
